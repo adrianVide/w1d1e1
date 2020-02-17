@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.body {
+    margin: 0px;
+}
+header {
+    height: 80px;
+    background-color: lightblue;
+    /* padding-bottom: 10px; */
+    /* width: 100%; */
+}
+
+nav {
+    background-color: lightcoral;
+    padding-bottom: 10px;
+}
+
+section {
+    background-color: yellow;
+    padding: 10px;
+    float: left;
+    display: inline-block;
+}
+
+article {
+    background-color: wheat;
+}
+
+footer {
+    background-color: lightcyan;
+    padding-bottom: 10px;
+}
+
+aside {
+    background-color: lightgoldenrodyellow;
+    float: right;
+    /* margin: 10px; */
+    /* width: 30%; */
+}
