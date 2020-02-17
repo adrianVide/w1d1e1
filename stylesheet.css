@@ -38,8 +38,12 @@ footer {
 
 aside {
     background-color: lightgoldenrodyellow;
+    vertical-align: top;
+    /* background-size: 100%; */
     /* float: right; */ 
     display: inline-block;
+    height: 163px;
+    width: 29%;
     text-align: left;
     /* margin: 10px; */
     /* width: 30%; */
